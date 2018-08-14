@@ -1,0 +1,59 @@
+header {
+    background-color: rgb(106, 90, 205); 
+}
+
+body {
+    background-color: rgba(30, 255, 218, 0.726);
+}
+
+h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#myPic {
+    height: 500px;
+    width: 500px;
+    margin-right: 20px;
+    float: left;
+}
+
+p {
+
+    font-size: 20px;
+    font-family: 'Corben', cursive;
+    text-align: right;
+}
+
+
+h2 {
+    color: black;
+    font-family: 'Corben', cursive;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+ul, li {
+    text-align: center;
+}
+
+
+a:link {
+    color: blue;
+    float: center;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: rgb(106, 90, 205);
+    text-align: center;
+}
